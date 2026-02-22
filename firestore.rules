@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      // EXTREMELY INSECURE: Temporarily open for debugging the seeding process.
+      allow read, write: if true;
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353654023457",
+    "firebase_url": "https://lumixo-a421e-default-rtdb.firebaseio.com",
+    "project_id": "lumixo-a421e",
+    "storage_bucket": "lumixo-a421e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353654023457:android:cb9e9757874312181fca60",
+        "android_client_info": {
+          "package_name": "com.example.lumixo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353654023457-14vsdqb9hs05jfqijn33qdbglifagcuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lumixo",
+            "certificate_hash": "e59b94c0de3c6c64b6848e7e5ad1d4c1c342fde4"
+          }
+        },
+        {
+          "client_id": "353654023457-u2bomodpvkqoqs38vg22o5jtf597sqvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtqDH5g06c-nmoUFKTl2CDDC30eJ4yzEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353654023457-u2bomodpvkqoqs38vg22o5jtf597sqvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
